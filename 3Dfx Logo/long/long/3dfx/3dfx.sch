@@ -1,0 +1,314 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x17_Odd_Even J1
+U 1 1 5FCEAF08
+P 1800 1800
+F 0 "J1" H 1850 775 50  0000 C CNN
+F 1 "Conn_02x17_Odd_Even" H 1850 866 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical" H 1800 1800 50  0001 C CNN
+F 3 "~" H 1800 1800 50  0001 C CNN
+	1    1800 1800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2000 2600 2200 2600
+Wire Wire Line
+	2000 2500 2200 2500
+Text Label 2100 2600 2    50   ~ 0
+D2
+Text Label 2100 2500 2    50   ~ 0
+D4
+Wire Wire Line
+	2000 2400 2200 2400
+Wire Wire Line
+	2000 2300 2200 2300
+Wire Wire Line
+	2000 2200 2200 2200
+Wire Wire Line
+	2000 2100 2200 2100
+Wire Wire Line
+	2000 2000 2200 2000
+Wire Wire Line
+	2000 1900 2200 1900
+Wire Wire Line
+	2000 1800 2200 1800
+Wire Wire Line
+	2000 1700 2200 1700
+Wire Wire Line
+	2000 1600 2200 1600
+Wire Wire Line
+	2000 1500 2200 1500
+Wire Wire Line
+	2000 1400 2200 1400
+Wire Wire Line
+	2000 1300 2200 1300
+Wire Wire Line
+	2000 1200 2200 1200
+Wire Wire Line
+	2000 1100 2200 1100
+Wire Wire Line
+	2000 1000 2200 1000
+Wire Wire Line
+	1500 2600 1300 2600
+Wire Wire Line
+	1500 2500 1300 2500
+Wire Wire Line
+	1500 2400 1300 2400
+Wire Wire Line
+	1500 2300 1300 2300
+Wire Wire Line
+	1500 2200 1300 2200
+Wire Wire Line
+	1500 2100 1300 2100
+Wire Wire Line
+	1500 2000 1300 2000
+Wire Wire Line
+	1500 1900 1300 1900
+Wire Wire Line
+	1500 1800 1300 1800
+Wire Wire Line
+	1500 1700 1300 1700
+Wire Wire Line
+	1500 1600 1300 1600
+Wire Wire Line
+	1500 1500 1300 1500
+Wire Wire Line
+	1500 1400 1300 1400
+Wire Wire Line
+	1500 1300 1300 1300
+Wire Wire Line
+	1500 1200 1300 1200
+Wire Wire Line
+	1500 1100 1300 1100
+Wire Wire Line
+	1500 1000 1300 1000
+Text Label 1350 1900 0    50   ~ 0
+D15
+Text Label 2050 1800 0    50   ~ 0
+D17
+Text Label 2000 1700 0    50   ~ 0
+D20
+Text Label 1350 1000 0    50   ~ 0
+D33
+Text Label 1350 1100 0    50   ~ 0
+D31
+Text Label 1350 1200 0    50   ~ 0
+D29
+Text Label 1350 1300 0    50   ~ 0
+D27
+Text Label 1350 1400 0    50   ~ 0
+D25
+Text Label 1350 1500 0    50   ~ 0
+D23
+Text Label 1350 1600 0    50   ~ 0
+D21
+Text Label 1300 1700 0    50   ~ 0
+D16
+Text Label 1350 2000 0    50   ~ 0
+D13
+Text Label 1350 2100 0    50   ~ 0
+D11
+Text Label 1350 2200 0    50   ~ 0
+D9
+Text Label 1350 2300 0    50   ~ 0
+D7
+Text Label 1350 2400 0    50   ~ 0
+D5
+Text Label 1350 2500 0    50   ~ 0
+D3
+Text Label 1350 2600 0    50   ~ 0
+D1
+Text Label 2000 2400 0    50   ~ 0
+D6
+Text Label 2000 2300 0    50   ~ 0
+D8
+Text Label 2000 2200 0    50   ~ 0
+D10
+Text Label 2000 2100 0    50   ~ 0
+D12
+Text Label 2000 2000 0    50   ~ 0
+D14
+Text Label 2000 1600 0    50   ~ 0
+D22
+Text Label 2000 1500 0    50   ~ 0
+D24
+Text Label 2000 1400 0    50   ~ 0
+D26
+Text Label 2000 1300 0    50   ~ 0
+D28
+Text Label 2000 1200 0    50   ~ 0
+D30
+Text Label 2000 1100 0    50   ~ 0
+D32
+Text Label 2000 1000 0    50   ~ 0
+D34
+$Comp
+L Connector_Generic:Conn_02x17_Odd_Even J2
+U 1 1 5FD4A3D5
+P 3000 1800
+F 0 "J2" H 3050 775 50  0000 C CNN
+F 1 "Conn_02x17_Odd_Even" H 3050 866 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical" H 3000 1800 50  0001 C CNN
+F 3 "~" H 3000 1800 50  0001 C CNN
+	1    3000 1800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3200 2600 3400 2600
+Wire Wire Line
+	3200 2500 3400 2500
+Text Label 3300 2600 2    50   ~ 0
+D2
+Text Label 3300 2500 2    50   ~ 0
+D4
+Wire Wire Line
+	3200 2400 3400 2400
+Wire Wire Line
+	3200 2300 3400 2300
+Wire Wire Line
+	3200 2200 3400 2200
+Wire Wire Line
+	3200 2100 3400 2100
+Wire Wire Line
+	3200 2000 3400 2000
+Wire Wire Line
+	3200 1900 3400 1900
+Wire Wire Line
+	3200 1800 3400 1800
+Wire Wire Line
+	3200 1700 3400 1700
+Wire Wire Line
+	3200 1600 3400 1600
+Wire Wire Line
+	3200 1500 3400 1500
+Wire Wire Line
+	3200 1400 3400 1400
+Wire Wire Line
+	3200 1300 3400 1300
+Wire Wire Line
+	3200 1200 3400 1200
+Wire Wire Line
+	3200 1100 3400 1100
+Wire Wire Line
+	3200 1000 3400 1000
+Wire Wire Line
+	2700 2600 2500 2600
+Wire Wire Line
+	2700 2500 2500 2500
+Wire Wire Line
+	2700 2400 2500 2400
+Wire Wire Line
+	2700 2300 2500 2300
+Wire Wire Line
+	2700 2200 2500 2200
+Wire Wire Line
+	2700 2100 2500 2100
+Wire Wire Line
+	2700 2000 2500 2000
+Wire Wire Line
+	2700 1900 2500 1900
+Wire Wire Line
+	2700 1800 2500 1800
+Wire Wire Line
+	2700 1700 2500 1700
+Wire Wire Line
+	2700 1600 2500 1600
+Wire Wire Line
+	2700 1500 2500 1500
+Wire Wire Line
+	2700 1400 2500 1400
+Wire Wire Line
+	2700 1300 2500 1300
+Wire Wire Line
+	2700 1200 2500 1200
+Wire Wire Line
+	2700 1100 2500 1100
+Wire Wire Line
+	2700 1000 2500 1000
+Text Label 2550 1900 0    50   ~ 0
+D15
+Text Label 3200 1800 0    50   ~ 0
+D18
+Text Label 3200 1700 0    50   ~ 0
+D20
+Text Label 2550 1800 0    50   ~ 0
+D17
+Text Label 2550 1000 0    50   ~ 0
+D33
+Text Label 2550 1100 0    50   ~ 0
+D31
+Text Label 2550 1200 0    50   ~ 0
+D29
+Text Label 2550 1300 0    50   ~ 0
+D27
+Text Label 2550 1400 0    50   ~ 0
+D25
+Text Label 2550 1500 0    50   ~ 0
+D23
+Text Label 2550 1600 0    50   ~ 0
+D21
+Text Label 2550 1700 0    50   ~ 0
+D19
+Text Label 2550 2000 0    50   ~ 0
+D13
+Text Label 2550 2100 0    50   ~ 0
+D11
+Text Label 2550 2200 0    50   ~ 0
+D9
+Text Label 2550 2300 0    50   ~ 0
+D7
+Text Label 2550 2400 0    50   ~ 0
+D5
+Text Label 2550 2500 0    50   ~ 0
+D3
+Text Label 2550 2600 0    50   ~ 0
+D1
+Text Label 3200 2400 0    50   ~ 0
+D6
+Text Label 3200 2300 0    50   ~ 0
+D8
+Text Label 3200 2200 0    50   ~ 0
+D10
+Text Label 3200 2100 0    50   ~ 0
+D12
+Text Label 3200 2000 0    50   ~ 0
+D14
+Text Label 3200 1900 0    50   ~ 0
+D16
+Text Label 3200 1600 0    50   ~ 0
+D22
+Text Label 3200 1500 0    50   ~ 0
+D24
+Text Label 3200 1400 0    50   ~ 0
+D26
+Text Label 3200 1300 0    50   ~ 0
+D28
+Text Label 3200 1200 0    50   ~ 0
+D30
+Text Label 3200 1100 0    50   ~ 0
+D32
+Text Label 3200 1000 0    50   ~ 0
+D34
+Text Label 1300 1800 0    50   ~ 0
+D18
+Text Label 2050 1900 0    50   ~ 0
+D19
+Text Notes 1100 1800 0    50   ~ 0
+19\n17\n
+Text Notes 2250 1900 0    50   ~ 0
+18\n16\n
+$EndSCHEMATC
